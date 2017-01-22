@@ -5,7 +5,7 @@ This is a little browser-based widget for typing drills. I'm using
 it to teach myself stenotype. It's still early in development, but
 you may find it useful and/or fun. I have it set up with only a
 `gh-pages` branch which means it will show up on the web at:
-https://joshuagrams.github.io/steno-jig/
+https://squarology.github.io/steno-jig/
 
 `index.html` has the basic structure you need to use it: for basic
 exercises you can pass an array of strings (each of which *must*
