@@ -15,6 +15,9 @@ div { margin-top: 0.3em; margin-bottom: 0.3em; }
 .center { text-align: center;
 	  display: none; }
 
+#exercise {
+	font-size: 48px;
+}
 
 /* Configure these to tune the stroke display to your liking. */
 
