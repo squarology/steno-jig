@@ -27,7 +27,7 @@ div { margin-top: 0.3em; margin-bottom: 0.3em; }
 }
 
 a:visited {
-    color: inherit;
+    color: blue;
 }
 
 /* Configure these to tune the stroke display to your liking. */
