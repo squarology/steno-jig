@@ -4909,7 +4909,12 @@
 	];
 	
 	TypeJig.WordSets.FirstWord = [
-		"the"
+		"the", "the", "the", "the", "the", "the", "the", "the",
+		"the", "the", "the", "the", "the", "the", "the", "the",
+		"the", "the", "the", "the", "the", "the", "the", "the",
+		"the", "the", "the", "the", "the", "the", "the", "the",
+		"the", "the", "the", "the", "the", "the", "the", "the",
+		"the", "the", "the", "the", "the", "the", "the", "the"
 	];
 
 })();  // Execute the code in the wrapper function.
