@@ -19,7 +19,7 @@ div { margin-top: 0.3em; margin-bottom: 0.3em; }
 
 /* Setting it to `smaller` usually means about 83% (1 / 1.2),
  * but there's no standard. */
-#strokes { font-size: 200px; opacity: 1; }
+#strokes { font-size: 150px; opacity: 1; }
 
 #strokes td {
 	background: #666;
