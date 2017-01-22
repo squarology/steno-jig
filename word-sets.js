@@ -4907,5 +4907,9 @@
 		"yourselves", "youth", "youths", "zone", "zoned",
 		"zones", "zoning", "zonings"
 	];
+	
+	TypeJig.WordSets.FirstWord = [
+		"the"
+	];
 
 })();  // Execute the code in the wrapper function.
