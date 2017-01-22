@@ -26,6 +26,10 @@ div { margin-top: 0.3em; margin-bottom: 0.3em; }
 	font-size: 48px;
 }
 
+a:visited {
+    color: inherit;
+}
+
 /* Configure these to tune the stroke display to your liking. */
 
 /* Setting it to `smaller` usually means about 83% (1 / 1.2),
