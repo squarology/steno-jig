@@ -2,7 +2,7 @@
 (function() {
 	
 	TypeJig.WordSets.Word0001 = [
-		"the", "the", "the", "the", "the",
+		"the", "is", "a", "test", "the",
 		"the", "the", "the", "the", "the",
 		"the", "the", "the", "the", "the",
 		"the", "the", "the", "the", "the",
