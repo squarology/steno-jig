@@ -127,7 +127,7 @@
 		"be", "be", "be", "be", "be",
 	];
 	
-	TypeJig.WordSets.Word0002 = [
+	TypeJig.WordSets.Word0015 = [
 		"by", "by", "by", "by", "by",
 		"by", "by", "by", "by", "by",
 		"by", "by", "by", "by", "by",
@@ -136,7 +136,7 @@
 		"by", "by", "by", "by", "by",
 	];
 	
-	TypeJig.WordSets.Word0002 = [
+	TypeJig.WordSets.Word0016 = [
 		"on", "on", "on", "on", "on",
 		"on", "on", "on", "on", "on",
 		"on", "on", "on", "on", "on",
@@ -145,7 +145,7 @@
 		"on", "on", "on", "on", "on",
 	];
 	
-	TypeJig.WordSets.Word0002 = [
+	TypeJig.WordSets.Word0017 = [
 		"not", "not", "not", "not", "not",
 		"not", "not", "not", "not", "not",
 		"not", "not", "not", "not", "not",
@@ -154,7 +154,7 @@
 		"not", "not", "not", "not", "not",
 	];
 	
-	TypeJig.WordSets.Word0002 = [
+	TypeJig.WordSets.Word0018 = [
 		"he", "he", "he", "he", "he",
 		"he", "he", "he", "he", "he",
 		"he", "he", "he", "he", "he",
@@ -163,7 +163,7 @@
 		"he", "he", "he", "he", "he",
 	];
 	
-	TypeJig.WordSets.Word0002 = [
+	TypeJig.WordSets.Word0019 = [
 		"I", "I", "I", "I", "I",
 		"I", "I", "I", "I", "I",
 		"I", "I", "I", "I", "I",
@@ -172,7 +172,7 @@
 		"I", "I", "I", "I", "I",
 	];
 	
-	TypeJig.WordSets.Word0002 = [
+	TypeJig.WordSets.Word0020 = [
 		"this", "this", "this", "this", "this",
 		"this", "this", "this", "this", "this",
 		"this", "this", "this", "this", "this",
