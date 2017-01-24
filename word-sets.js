@@ -2,7 +2,7 @@
 (function() {
 	
 	TypeJig.WordSets.Word0001 = [
-		"the", "is", "a", "test", "the",
+		"the", "the", "the", "the", "the",
 		"the", "the", "the", "the", "the",
 		"the", "the", "the", "the", "the",
 		"the", "the", "the", "the", "the",
@@ -90,5 +90,96 @@
 		"it", "it", "it", "it", "it",
 		"it", "it", "it", "it", "it",
 	];
+	
+	TypeJig.WordSets.Word0011 = [
+		"as", "as", "as", "as", "as",
+		"as", "as", "as", "as", "as",
+		"as", "as", "as", "as", "as",
+		"as", "as", "as", "as", "as",
+		"as", "as", "as", "as", "as",
+		"as", "as", "as", "as", "as",
+	];
+	
+	TypeJig.WordSets.Word0012 = [
+		"was", "was", "was", "was", "was",
+		"was", "was", "was", "was", "was",
+		"was", "was", "was", "was", "was",
+		"was", "was", "was", "was", "was",
+		"was", "was", "was", "was", "was",
+		"was", "was", "was", "was", "was",
+	];
+	
+	TypeJig.WordSets.Word0013 = [
+		"with", "with", "with", "with", "with",
+		"with", "with", "with", "with", "with",
+		"with", "with", "with", "with", "with",
+		"with", "with", "with", "with", "with",
+		"with", "with", "with", "with", "with",
+		"with", "with", "with", "with", "with",
+	];
+	
+	TypeJig.WordSets.Word0014 = [
+		"be", "be", "be", "be", "be",
+		"be", "be", "be", "be", "be",
+		"be", "be", "be", "be", "be",
+		"be", "be", "be", "be", "be",
+		"be", "be", "be", "be", "be",
+		"be", "be", "be", "be", "be",
+	];
+	
+	TypeJig.WordSets.Word0002 = [
+		"by", "by", "by", "by", "by",
+		"by", "by", "by", "by", "by",
+		"by", "by", "by", "by", "by",
+		"by", "by", "by", "by", "by",
+		"by", "by", "by", "by", "by",
+		"by", "by", "by", "by", "by",
+	];
+	
+	TypeJig.WordSets.Word0002 = [
+		"on", "on", "on", "on", "on",
+		"on", "on", "on", "on", "on",
+		"on", "on", "on", "on", "on",
+		"on", "on", "on", "on", "on",
+		"on", "on", "on", "on", "on",
+		"on", "on", "on", "on", "on",
+	];
+	
+	TypeJig.WordSets.Word0002 = [
+		"not", "not", "not", "not", "not",
+		"not", "not", "not", "not", "not",
+		"not", "not", "not", "not", "not",
+		"not", "not", "not", "not", "not",
+		"not", "not", "not", "not", "not",
+		"not", "not", "not", "not", "not",
+	];
+	
+	TypeJig.WordSets.Word0002 = [
+		"he", "he", "he", "he", "he",
+		"he", "he", "he", "he", "he",
+		"he", "he", "he", "he", "he",
+		"he", "he", "he", "he", "he",
+		"he", "he", "he", "he", "he",
+		"he", "he", "he", "he", "he",
+	];
+	
+	TypeJig.WordSets.Word0002 = [
+		"I", "I", "I", "I", "I",
+		"I", "I", "I", "I", "I",
+		"I", "I", "I", "I", "I",
+		"I", "I", "I", "I", "I",
+		"I", "I", "I", "I", "I",
+		"I", "I", "I", "I", "I",
+	];
+	
+	TypeJig.WordSets.Word0002 = [
+		"this", "this", "this", "this", "this",
+		"this", "this", "this", "this", "this",
+		"this", "this", "this", "this", "this",
+		"this", "this", "this", "this", "this",
+		"this", "this", "this", "this", "this",
+		"this", "this", "this", "this", "this",
+	];
+	
 	
 })();  // Execute the code in the wrapper function.
